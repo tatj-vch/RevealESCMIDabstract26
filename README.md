@@ -1,4 +1,3 @@
-# RevealESCMIDabstract26
 ESCMID P1547 updated abstract 
 
 Comparison of antimicrobial susceptibility testing systems VITEK REVEAL
