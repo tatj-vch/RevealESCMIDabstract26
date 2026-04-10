@@ -45,4 +45,4 @@ particularly those involving ESBL-producing organisms, may warrant confirmatory 
 References (DOI only): 10.3390/antibiotics13111058; 10.1016/j.diagmicrobio.2024.116503; 10.1128/jcm.00927-25; 10.1128/jcm.01050-25
 
 Conflicts of interest
-Do any of the authors have conflicts of interest related to the studies presented in this abstract? YesP1547
+Do any of the authors have conflicts of interest related to the studies presented in this abstract? Yes
