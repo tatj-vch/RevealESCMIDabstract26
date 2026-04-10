@@ -24,15 +24,7 @@ for susceptibility interpretation.
 
 Results
 
-A total of 113 Gram-negative–positive blood cultures were enrolled, of which 14 were excluded due to polymicrobial growth,
-organisms not claimed by REVEAL™, or technical and system errors. Overall, 98% of isolates were Enterobacterales, with
-Escherichia coli comprising 69%. REVEAL™ demonstrated 76.7% essential agreement and 97.5% categorical agreement
-across covered organism–antibiotic combinations. Lower essential agreement was attributed to limited breakpoint coverage
-compared with Phoenix™ for multiple antibiotics. The very major error rate was 2.2%, primarily involving ESBL-producing
-organisms and cephalosporins; major and minor error rates were 0.2% and 2.1%, respectively. Adjudication using gradient
-diffusion strip testing resolved one minor error in favour of REVEAL™, with broth microdilution testing pending. An ESBL
-phenotype was observed in 24% of isolates, with 98% categorical agreement. Median time from blood culture positivity to
-complete AST was 8 hours (range 6–8.2 h), with results available approximately one day earlier than routine practice.
+A total of 113 GN-positive blood cultures were enrolled, of which 14 were excluded for being polymicrobial, having species not claimed on the Reveal and technical and system errors. Overall, 98% of isolates were Enterobacterales, 69% were Escherichia coli. The Reveal™ demonstrated 76.7% essential agreement (EA) and 97.5% categorical agreement (CA) for the covered organism-antibiotic combinations. Lower than expected EA is likely attributed to limited breakpoint coverage compared to Phoenix™ for multiple antibiotics. There was a very major error (VME) rate of 2.2%, which was principally attributed to ESBL-producing organisms and cephalosporins, a major error (ME) rate of 0.2% and a minor error rate of 2.1%. Adjudication with gradient diffusion strip testing (E-test) resolved one minor error (mE) in favour of Reveal™ and broth microdilution testing resolved 1 VME, 2 ME and 1 mE. 24% of isolates exhibited an extended-spectrum beta-lactamase (ESBL) phenotype, with 98% CA. Median time to result (from positivity to complete AST) for Reveal™ was 8 hours (range 6-8.2h), with results available approximately a day earlier compared to routine practice.
 
 Conclusions
 
