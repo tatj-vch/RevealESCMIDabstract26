@@ -7,8 +7,8 @@ and BD Phoenix for Gram-negative bacteraemia
 03. Bacterial susceptibility & resistance | 03c. Susceptibility testing methods (incl assay validation, phenotypic assays and
 comparative studies, excl TB)
 
-J. Tat¹, H. Glassman¹, C. Fletcher¹, S. Feng¹, A. Zhang¹, P. Parekh¹, V. Tang¹, M. Charles¹. ¹Vancouver Coastal Health –
-Vancouver (Canada)
+J. Tat¹, H. Glassman¹, C. Fletcher¹, S. Feng¹, A. Zhang¹, P. Parekh¹, V. Tang¹, M. Charles¹. 
+¹Vancouver Coastal Health – Vancouver (Canada)
 
 Background
 
