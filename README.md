@@ -1,5 +1,3 @@
-ESCMID P1547 updated abstract 
-
 Comparison of antimicrobial susceptibility testing systems VITEK REVEAL
 and BD Phoenix for Gram-negative bacteraemia
 
